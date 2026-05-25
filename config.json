@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheave",
+        "uuid": 2194850,
+        "checksum": "y16dap"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
